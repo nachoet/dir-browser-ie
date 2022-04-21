@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# About Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project made for evojams as part of a Frontend homework. 
+
+Made with React library as this is an excellent tool for frontend rendering and with great usabiity.
+With axios to manage API requests and Hooks to monitor the state of the application. 
+The SPA model fits perfectly for this assignment.
+
+## Steps to install
+
+1. Download .zip file, extract. Or simply git clone my repository into your PC.
+2. cd into the newly created directory.
+3. Execute npm install.
+4. Run npm start.
 
 ## Available Scripts
 
